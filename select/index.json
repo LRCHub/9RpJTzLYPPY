@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "逢いたくていま",
+  "base_artist": "MISIA",
+  "createdAt": "2026-01-13T08:16:44.521840Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "逢いたくていま(MISIA星空のライヴV@横浜アリーナ)",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/01_逢いたくていま(MISIA星空のライヴV@横浜アリーナ)_MISIA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "逢いたくていま",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/02_逢いたくていま_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "逢いたくていま",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/03_逢いたくていま_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "逢いたくていま",
+      "artist": "米希亞",
+      "has_synced": true,
+      "path": "select/04_逢いたくていま_米希亞.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "逢いたくていま",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/05_逢いたくていま_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "逢いたくていま",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/06_逢いたくていま_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "逢いたくていま",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/07_逢いたくていま_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "MISIA - 逢いたくていま（Official Music Video）",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/08_MISIA_-_逢いたくていま(Official_Music_Video)_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "逢いたくていま - Aitakute Ima",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/09_逢いたくていま_-_Aitakute_Ima_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "逢いたくていま",
+      "artist": "DAESUNG",
+      "has_synced": true,
+      "path": "select/10_逢いたくていま_DAESUNG.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "逢いたくていま",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/11_逢いたくていま_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "逢いたくていま",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/12_逢いたくていま_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "逢いたくていま [Live]",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/13_逢いたくていま_[Live]_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "逢いたくていま",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/14_逢いたくていま_MISIA.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "逢いたくていま",
+      "artist": "D-LITE",
+      "has_synced": true,
+      "path": "select/15_逢いたくていま_D-LITE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "逢いたくていま",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/pl_01_逢いたくていま_MISIA.txt"
+    }
+  ]
+}
